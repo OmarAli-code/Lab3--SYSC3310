@@ -5,6 +5,7 @@ public class AddressBook {
 
     public AddressBook(){
         this.people = new ArrayList<>();
+        print("hello");
     }
 
     public void addBuddy(BuddyInfo buddy1){
